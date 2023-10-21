@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/5.4/language.xsd" languagecode="es" languagename="Español" countrycode="es">
+<import>
+	<category name="wcf.acp.option">
+		<item name="wcf.acp.option.category.legalNotice"><![CDATA[Aviso legal]]></item>
+		<item name="wcf.acp.option.legal_notice_additional_text"><![CDATA[Información adicional]]></item>
+		<item name="wcf.acp.option.legal_notice_additional_text.description"><![CDATA[Puedes introducir información adicional para su página de aviso legal aquí.]]></item>
+		<item name="wcf.acp.option.legal_notice_additional_text_enable_html"><![CDATA[Habilitar código HTML en el mensaje de información adicional.]]></item>
+		<item name="wcf.acp.option.legal_notice_additional_text_enable_html.description"/>
+		<item name="wcf.acp.option.legal_notice_address"><![CDATA[Nombre y dirección]]></item>
+		<item name="wcf.acp.option.legal_notice_address.description"/>
+		<item name="wcf.acp.option.legal_notice_email_address"><![CDATA[Dirección de correo electrónico]]></item>
+		<item name="wcf.acp.option.legal_notice_email_address.description"/>
+		<item name="wcf.acp.option.legal_notice_fax"><![CDATA[Fax]]></item>
+		<item name="wcf.acp.option.legal_notice_fax.description"/>
+		<item name="wcf.acp.option.legal_notice_phone"><![CDATA[Teléfono]]></item>
+		<item name="wcf.acp.option.legal_notice_phone.description"/>
+		<item name="wcf.acp.option.legal_notice_register"><![CDATA[Registro]]></item>
+		<item name="wcf.acp.option.legal_notice_register.description"/>
+		<item name="wcf.acp.option.legal_notice_representative"><![CDATA[Representantes]]></item>
+		<item name="wcf.acp.option.legal_notice_representative.description"/>
+		<item name="wcf.acp.option.legal_notice_vat_id"><![CDATA[NIF]]></item>
+		<item name="wcf.acp.option.legal_notice_vat_id.description"/>
+		<item name="wcf.acp.option.legal_notice_responsible_for_content"><![CDATA[Responsable del contenido]]></item>
+		<item name="wcf.acp.option.legal_notice_responsible_for_content.description"><![CDATA[Dependiendo de la jurisdicción, esta información sólo es necesaria para contenidos periodísticos y editoriales.]]></item>
+	</category>
+	<category name="wcf.legalNotice">
+		<item name="wcf.legalNotice.additionalText"><![CDATA[Información adicional]]></item>
+		<item name="wcf.legalNotice.address"><![CDATA[Nombre y dirección]]></item>
+		<item name="wcf.legalNotice.emailAddress"><![CDATA[Dirección de correo electrónico]]></item>
+		<item name="wcf.legalNotice.fax"><![CDATA[Fax]]></item>
+		<item name="wcf.legalNotice.general"><![CDATA[Información general]]></item>
+		<item name="wcf.legalNotice.phone"><![CDATA[Teléfono]]></item>
+		<item name="wcf.legalNotice.register"><![CDATA[Registro]]></item>
+		<item name="wcf.legalNotice.representative"><![CDATA[Representantes]]></item>
+		<item name="wcf.legalNotice.vatID"><![CDATA[NIF]]></item>
+		<item name="wcf.legalNotice.responsibleForContent"><![CDATA[Responsable del contenido]]></item>
+	</category>
+</import>
+<delete>
+	<item name="wcf.acp.option.category.legalNotice.description"/>
+	<item name="wcf.footer.menu.legalNotice"/>
+	<item name="wcf.legalNotice.description"/>
+	<item name="wcf.legalNotice.title"/>
+	<item name="wcf.page.com.woltlab.wcf.legalNotice.LegalNoticePage"/>
+</delete>
+</language>
