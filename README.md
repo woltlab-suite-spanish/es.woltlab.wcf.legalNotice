@@ -17,7 +17,7 @@ Idioma español para **WoltLab Suite Core: Legal Notice** desarrollado por WoltL
     * [WoltLab Suite Filebase: Support Threads](https://github.com/woltlab-suite-es/es.woltlab.filebase.supportThread)
 
 ### Cómo instalar un archivo de idioma
-Descarga el archivo de idioma `es.xml` y súbelo a `Administration Panel Control > Customization > Languages > Import Language`.
+Descarga el archivo de idioma `es.xml` y súbelo a `Administration Control Panel > Customization > Languages > Import Language`.
 Deberás subir cada paquete de idioma por separado.
 
 ### Cómo evitar símbolos y caracteres especiales en las URL
