@@ -21,7 +21,7 @@ Descarga el archivo de idioma `es.xml` y súbelo a `Administration Panel Control
 Deberás subir cada paquete de idioma por separado.
 
 ### Cómo evitar símbolos y caracteres especiales en las URL
-Consulta los [ajustes de reescritura de URLs para el idioma español](https://github.com/TranslationsLabEs/es.private.wcf/issues/13). Ahí compartimos las reglas para ajustar las URLs a la forma en la que estamos acostumbrados en los sitios en español y te explicamos cómo establecerlas en tu instalación de WoltLab Suite.
+Consulta los [ajustes de reescritura de URLs para el idioma español](https://github.com/woltlab-suite-es/es.woltlab.wcf/issues/14). Ahí compartimos las reglas para ajustar las URLs a la forma en la que estamos acostumbrados en los sitios en español y te explicamos cómo establecerlas en tu instalación de WoltLab Suite.
 
 ### Licencia
 Traducción realizada por [Aethior](https://github.com/aethior) (aethior en gmail.com).
