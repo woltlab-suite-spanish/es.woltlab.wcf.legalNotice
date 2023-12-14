@@ -4,7 +4,7 @@
 	<category name="wcf.acp.option">
 		<item name="wcf.acp.option.category.legalNotice"><![CDATA[Aviso legal]]></item>
 		<item name="wcf.acp.option.legal_notice_additional_text"><![CDATA[Información adicional]]></item>
-		<item name="wcf.acp.option.legal_notice_additional_text.description"><![CDATA[Puedes introducir información adicional para su página de aviso legal aquí.]]></item>
+		<item name="wcf.acp.option.legal_notice_additional_text.description"><![CDATA[Puedes introducir información adicional para tu página de aviso legal aquí.]]></item>
 		<item name="wcf.acp.option.legal_notice_additional_text_enable_html"><![CDATA[Habilitar código HTML en el mensaje de información adicional]]></item>
 		<item name="wcf.acp.option.legal_notice_additional_text_enable_html.description"/>
 		<item name="wcf.acp.option.legal_notice_address"><![CDATA[Nombre y dirección]]></item>
