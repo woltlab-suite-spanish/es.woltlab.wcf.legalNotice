@@ -22,7 +22,7 @@
 		<item name="wcf.acp.option.legal_notice_vat_id"><![CDATA[NIF]]></item>
 		<item name="wcf.acp.option.legal_notice_vat_id.description"/>
 		<item name="wcf.acp.option.legal_notice_responsible_for_content"><![CDATA[Responsable del contenido]]></item>
-		<item name="wcf.acp.option.legal_notice_responsible_for_content.description"><![CDATA[Dependiendo de la jurisdicción, esta información sólo es necesaria para contenidos periodísticos y editoriales.]]></item>
+		<item name="wcf.acp.option.legal_notice_responsible_for_content.description"><![CDATA[Dependiendo de la jurisdicción, esta información solo es necesaria para contenidos periodísticos y editoriales.]]></item>
 	</category>
 	<category name="wcf.legalNotice">
 		<item name="wcf.legalNotice.additionalText"><![CDATA[Información adicional]]></item>
