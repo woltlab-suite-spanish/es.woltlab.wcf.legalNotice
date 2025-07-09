@@ -1,5 +1,5 @@
 # WoltLab Suite Core: Legal Notice en Español
-Idioma español para **WoltLab Suite Core: Legal Notice** desarrollado por WoltLab GmbH.
+Idioma español para **WoltLab Suite Core: Legal Notice** desarrollado por [WoltLab GmbH](https://github.com/WoltLab).
 
 ### Todos los archivos de idioma
 * [WoltLab Suite Core](https://github.com/woltlab-suite-es/es.woltlab.wcf)
